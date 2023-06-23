@@ -8,7 +8,7 @@ function logDairy() {
 }
 
 logDairy();
-console.log("")
+console.log("")#applaythisssssssssssssssssssssssssss
 
 
 // Task 2
